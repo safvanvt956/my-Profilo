@@ -4070,7 +4070,7 @@ blockquote::before {
 
 .contactboard{
   background: #EFF3F7;
-  padding: 75px;
+  /* padding: 35px; */
 }
 
 @media only screen and (min-width: 768px) {
