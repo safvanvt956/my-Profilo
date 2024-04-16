@@ -5785,24 +5785,29 @@ blockquote::before {
 }
 
 .skills__field.width_60::after {
-  width: 60%;
-}
-
-.skills__field.width_75::after {
-  width: 75%;
+  width: 95%;
 }
 
 .skills__field.width_90::after {
   width: 90%;
 }
 
+.skills__field.width_40::after {
+  width: 60%;
+}
+
 .skills__field.width_100::after {
-  width: 100%;
+  width: 60%;
 }
 
 .skills__field.width_70::after {
   width: 70%;
 }
+.skills__field.width_75::after {
+  width: 72%;
+}
+
+
 
 .skills__text {
   position: relative;
@@ -5837,11 +5842,11 @@ blockquote::before {
 }
 
 .skills__count.width_60 {
-  left: 58%;
+  left: 90%;
 }
 
 .skills__count.width_75 {
-  left: 72%;
+  left: 70%;
 }
 
 .skills__count.width_90 {

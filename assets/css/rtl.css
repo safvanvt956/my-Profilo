@@ -167,7 +167,7 @@
     left: auto;
 }
 [dir="rtl"] .skills__count.width_100{
-    right: 90%;
+    right: 60%;
     left: auto;
 }
 [dir="rtl"] .skills__count.width_90{
@@ -179,11 +179,11 @@
     left: auto;
 }
 [dir="rtl"] .skills__count.width_60{
-    right: 58%;
+    right: 90%;
     left: auto;
 }
 [dir="rtl"] .skills__count.width_75{
-    right: 72%;
+    right: 75%;
     left: auto;
 }
 
