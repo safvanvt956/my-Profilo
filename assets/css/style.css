@@ -2112,10 +2112,17 @@ body.overlay__active::before,
 
 .main__logo--link {
   display: block;
+  color: #EE5F38;
+  font-family: "Yellowtail", cursive;
+  text-transform: uppercase;
+  font-weight: 650;
+  font-style: normal;
+
 }
 
 .main__logo--title {
   line-height: 1;
+  
 }
 
 .main__logo--img.logo_dark {
