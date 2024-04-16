@@ -5752,7 +5752,9 @@ blockquote::before {
 .skills__field {
   position: relative;
 }
-
+.colors{
+  background-color: #EE5F38;
+}
 .skills__field::before {
   position: absolute;
   content: "";
